@@ -1,0 +1,157 @@
+import java.util.*;
+class Example{
+	public static void main(String args[]){	
+
+		Scanner input=new Scanner(System.in);
+
+		System.out.println("=======================================================================================================================");
+		System.out.println("||                                                                                                                    ||");
+		System.out.println("||                                                                                                                    ||");
+		System.out.println("||                                                          =*%@@%*=                                                  ||");
+		System.out.println("||                                                        =@@@@@@@@@@=                                                ||");
+		System.out.println("||                                  .=#@@#+.             =@@@@@@@@@@@@=                                               ||");
+		System.out.println("||                                 :@@@@@@@@-            @@@@@@@@@@@@@%                                               ||");
+		System.out.println("||                                 @@@@@@@@@@            =@@@@@@@@@@@@=                                               ||");
+		System.out.println("||                                 :@@@@@@@@-             +@@@@@@@@@@=                                                ||");
+		System.out.println("||                                  .+#@@#+.                =\"%@@%\"=                                                  ||");
+		System.out.println("||                                =#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#=                                              ||");
+		System.out.println("||                               *@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*       -+@#                                  ||");
+		System.out.println("||                               @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  :+#@@@@@@                                  ||");
+		System.out.println("||                               @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                  ||");
+		System.out.println("||                               @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                  ||");
+		System.out.println("||                               %@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                  ||");
+		System.out.println("||                               @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                  ||");
+		System.out.println("||                               @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  :+#@@@@@@                                  ||");
+		System.out.println("||                               *@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*       -+@#                                  ||");
+		System.out.println("||                                =#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#=                                              ||");
+		System.out.println("||                                              .%@@@++@@@%:                                                          ||"); 
+		System.out.println("||                                             =@@@%.  .%@@@=                                                         ||"); 
+		System.out.println("||                                             =%%=      =%%=                                                         ||"); 
+		System.out.println("||                                                                                                                    ||"); 
+		System.out.println("||                                                                                                                    ||"); 
+		System.out.println("||                                                                                                                    ||"); 
+		System.out.println("||                                                                                                                    ||"); 
+		System.out.println("||                             ___  __________   ___________  _________  _______                                      ||"); 
+		System.out.println("||                            / _ \\/_  __/ __/  / ___/   _/ |/  / __/  |/  / _  |                                     ||"); 
+		System.out.println("||                           / , _/ / / _\\ \\   / /___/  //     / _// /\\_/ / __  |                                     ||"); 
+		System.out.println("||                          /_/|_| /_/ /___/   \\___/____/_/\\__/___/_/  /_/_/  |_|                                     ||"); 
+		System.out.println("||                                                                                                                    ||"); 
+		System.out.println("||                                                                                                                    ||"); 
+		System.out.println("=======================================================================================================================");
+ 		
+		
+		String Location;
+		String date;
+		System.out.print("Enter date : ");
+		date=input.next();
+
+		System.out.print("Location:  ");
+		Location=input.next();
+		System.out.print("\n");
+
+		System.out.println("                            _           _ _      _    _        ___ _ _                                                   "); 
+		System.out.println("                           /_\\__ ____ _(_) |__ _| |__| |___   | __(_) |_ __  ___                                        "); 
+		System.out.println("                          / _ \\ V / _` | | / _` | \'_ \\ / -_)  | _|| | | \\' \\(_-<                                    ");
+		System.out.println("                         /_/ \\_\\_/\\__,_|_|_\\__,_|_.__/_\\___|  |_| |_|_|_|_|_/__/                              "); 
+		System.out.println("                                                                                                                    "); 
+		System.out.println("                         ======================================================	       	 	"); 
+		System.out.println("                                                                                                                    "); 
+		System.out.println("                                                                                                                    "); 
+		System.out.println("                                                                                                                    "); 
+		System.out.println("                                                                                                                    "); 
+		System.out.println("                                                                                                                    "); 
+
+
+
+		System.out.print("\n\n");
+		System.out.println("1) Movie 1 - Hall 1\t\t2) Movie 2 - Hall 2");
+
+		System.out.println("3) Movie 3 - Hall 3\t\t4) Movie 4 - Hall 4");
+		System.out.print("\n\n");
+		System.out.print("Enter Movie Number: ");
+		int Number=input.nextInt();
+		System.out.print("\n\n");
+ 
+		System.out.println("                         _______     		          	        ");
+		System.out.println("                        |__   __|_				        ");
+		System.out.println("			   | |	(_)_ __	___   ___			");
+		System.out.println("			   | |  | | \'_ \' _ \\ / _ \\		        ");
+		System.out.println("			   | |	| | | |	| | |  __/		        ");
+		System.out.println("			   |_|	|_|_| |_| |_|\\___|		        ");
+		System.out.println("	 ========================================================         ");
+		System.out.println("                     \n\n     		  	               ");
+		System.out.println("                      1) 9.00 A.M.   			       ");
+		System.out.println("                      2) 2.00 P.M.   			       ");
+		System.out.println("                      3) 7.00 A.M.   			       ");
+
+
+
+
+
+		String Time;
+		System.out.print("Enter Time: ");
+		Time=input.next();
+		System.out.print("\n\n");
+
+		System.out.println(" 	  	     ______           _					         ");
+		System.out.println(" 	  	    /   __ \\         | |		  			         ");
+		System.out.println(" 	  	    |  /  \\/_   _ __ | |_ ___ __ __ ____  ___ _ __		       	 ");
+		System.out.println(" 	  	    |  |   | | | / __| __/ _ \\| \'_ `  _ \\/ _ \\ \' _|		         ");
+		System.out.println(" 		    |  \\__/\\ |_| \\__ \\ || (_) | | | | | |  __/ |    	          	 ");
+		System.out.println(" 		    \\______/\\__,_|___/\\__\\___/|_| |_| |_|\\___|_|			 ");
+		System.out.println(" 		   ================================================           	 ");
+
+
+
+		System.out.print("\n\n");
+
+
+		String Name;
+		System.out.print("Name : ");
+		Name=input.next();
+
+	
+
+		String Tel_Num;
+		System.out.print("Phone Number : ");
+		Tel_Num=input.next();
+
+		String Child_Parent;
+		System.out.print("Child OR Parent : ");
+		Child_Parent=input.next();
+
+		int Num_Tickets;
+		System.out.print("Number of Tickets : ");
+		Num_Tickets=input.nextInt();
+
+                Float Tax=(90*Num_Tickets)*0.8f;
+		System.out.print("\n\n");              
+
+		System.out.println("===============================================================================================================");
+		System.out.println("||                             ___  __________   ___________  _________  _______                              ||"); 
+		System.out.println("||                            / _ \\/_  __/ __/  / ___/   _/ |/  / __/  |/  / _  |                             ||"); 
+		System.out.println("||                           / , _/ / / _\\ \\   / /___/  //     / _// /\\_/ / __  |                             ||"); 
+		System.out.println("||                          /_/|_| /_/ /___/   \\___/____/_/\\__/___/_/  /_/_/  |_|                             ||"); 
+		System.out.println("||                                                                                                            ||"); 
+		System.out.println("||                                                                                                            ||"); 
+		System.out.println("||   Date : "+date+"                                Location : "+Location+"                                   ||"); 
+		System.out.println("||                                                                                                            ||"); 
+		System.out.println("||------------------------------------------------------------------------------------------------------------||"); 
+		System.out.println("||                                                                                                            ||"); 
+		System.out.println("||    Name            : "+Name+"                                                                                  ||"); 
+		System.out.println("||    Phone Number    : "+Tel_Num+"                                                                               ||"); 
+		System.out.println("||    Tickets         : "+Num_Tickets+"                                                                                       ||"); 
+		System.out.println("||    Type            : "+Child_Parent+"                                                                                  ||"); 
+		System.out.println("||    Time            : "+Time+"                                                                                    ||"); 
+		System.out.println("||    Hall            : "+Number+"                                                                                       ||"); 
+		System.out.println("||    Tax             : "+Tax+"                                                                                  ||"); 
+		System.out.println("||                                                                                                            ||"); 
+		System.out.println("||                                                                              Total : "+(90*Num_Tickets)+"            ||"); 
+		System.out.println("===============================================================================================================");
+
+
+
+
+
+			}
+}
